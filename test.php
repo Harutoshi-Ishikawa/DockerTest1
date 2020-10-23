@@ -1,3 +1,3 @@
 <?php
-	echo "hogehogehoge";
+	echo "hoge";
 ?>
